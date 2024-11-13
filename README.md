@@ -3,10 +3,10 @@
 Create a web application that returns a greeting based on a response from the server.
 
 ## Server-Side
-Create an endpoint that takes in a name and returns "Hello <name>!"
+Create an endpoint that takes in a name and returns "Hello \<name\>!"
 
 ## Client-Side
-When the Get Greeting button is clicked, send the name entered in the text input to the backend and display the returned message on the frontend. On error, display an error instead.
+When the Get Greeting button is clicked, send the name entered into the text input to the backend and display the returned greeting message on the frontend. On error, display an error message instead.
 
 ## Bonus
 Center UI elements horizontally and vertically on the screen.
