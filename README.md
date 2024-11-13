@@ -9,4 +9,11 @@ Create a `GET` endpoint `/api/greet/<name>` that returns JSON formatted like `{m
 When the Get Greeting button is clicked, send the name entered in the text input to the backend and display the returned message on the frontend. On error, display "Error: Could not fetch greeting." instead.
 
 ## Bonus
-Center UI elements on the screen.
+Center UI elements horizontally and vertically on the screen.
+
+<p align="center">
+  <img src='https://github.com/bigredhacks/Registration-Site/assets/45516888/9e72cdf0-5cf5-4b8e-9196-f0154ee52e37' width='120'>
+</p>
+<p align="center">
+Made with ❤️ by the BigRed//Hacks Open-Source Software Team
+</p>
