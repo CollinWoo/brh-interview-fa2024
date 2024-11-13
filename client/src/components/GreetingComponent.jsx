@@ -1,11 +1,11 @@
 import { useState } from "react";
 
 function GreetingComponent() {
-  const ROUTE_BASE = "http://localhost:5001/api/greet/"
+  const BASE_URL = "http://localhost:5001/"
   const [name, setName] = useState("");
   const [message, setMessage] = useState("");
 
-  // Fill out this method. On error, the message should be set to 'Error: Could not fetch greeting.'
+  // Fill out this method. On error, should return an error message'
   const handleFetchGreeting = async () => {};
 
   return (

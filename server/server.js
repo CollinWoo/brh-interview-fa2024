@@ -5,7 +5,7 @@ app.use(cors());
 const PORT = 5001;
 
 
-// Create a GET endpoint /api/greet/<name> that returns a json formatted like {message: "Hello <name>!"}
+// Create an endpoint that returns the greeting "Hello <name>" when somehow given a name
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
